@@ -1,0 +1,9 @@
+.sm-student-table th,
+.sm-student-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+.sm-student-table thead {
+  background-color: #f4f4f4;
+}
